@@ -1,0 +1,12 @@
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.deps.json
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.dll
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.pdb
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.csproj.AssemblyReference.cache
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.AssemblyInfoInputs.cache
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.AssemblyInfo.cs
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.csproj.CoreCompileInputs.cache
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.dll
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\obj\Debug\net5.0\refint\ShoppingLibrary.dll
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.pdb
+C:\ShoppingCartAssignment\ShoppingCartSln\ShoppingLibrary\obj\Debug\net5.0\ref\ShoppingLibrary.dll
